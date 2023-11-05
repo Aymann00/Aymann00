@@ -23,4 +23,4 @@ I'm an **Undergrad Student🎓 [@Mansoura University](https://www.mans.edu.eg/en
 - <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  I enjoy working on
   - 🤖 Embedded System Projects
 - 👯 I’m looking to collaborate on making hardware projects with AVR or Any Arm Based MCU
-- 📙 Check out my [Resume](https://drive.google.com/file/d/1Bnuwen5oLcVE-kh427xg5oT1-jpBsjxT/view?usp=sharing)
+- 📙 Check out my [Resume](https://drive.google.com/file/d/1Bnuwen5oLcVE-kh427xg5oT1-jpBsjxT/view?usp=drive_link)
